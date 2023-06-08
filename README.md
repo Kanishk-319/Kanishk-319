@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Twitter Clone**
 
-- 🌱 I’m currently learning **Firebase**
+- 🌱 I’m currently learning **TypeScript**
 
 - 🤝 I’m looking for help with **React Websites**
 
