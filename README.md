@@ -1,4 +1,4 @@
-[![MasterHead](https://i.imgur.com/O3Bxs16.gif)]
+![MasterHead](https://i.imgur.com/O3Bxs16.gif)
 <h1 align="center">Hi 👋, I'm Kanishk Singh Malik</h1>
 <h3 align="center">A self-taught full stack Web-Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media1.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=ecf05e47685t923e3yyw0e4wl47xd2lwcrusgcdm0csfesgc&rid=giphy.gif&ct=g">
@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React Websites**
 
-- 👨‍💻 All of my projects are available at [[https://kanishk-319.github.io/MyPortfolio/](https://portfolio-2-0-vg9p.vercel.app/)]
+- 👨‍💻 All of my projects are available at [https://kanishk-319.github.io/MyPortfolio/](https://portfolio-2-0-vg9p.vercel.app/)
 
 - 💬 Ask me about **Html, CSS, JavaScript, ReactJs, Bootstrap, Tailwind CSS**
 
