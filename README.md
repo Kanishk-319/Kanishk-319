@@ -13,7 +13,7 @@
 
 - 🤝 I’m looking for help with **React Websites**
 
-- 👨‍💻 All of my projects are available at [https://kanishk-319.github.io/MyPortfolio/](https://portfolio-2-0-vg9p.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://portfolio-2-0-vg9p.vercel.app/](https://portfolio-2-0-vg9p.vercel.app/)
 
 - 💬 Ask me about **Html, CSS, JavaScript, ReactJs, Bootstrap, Tailwind CSS**
 
