@@ -17,7 +17,7 @@
 
 - 💬 Ask me about **Html, CSS, JavaScript, ReactJs, Bootstrap, Tailwind CSS**
 
-- 📫 How to reach me **kanishkpvt01@gmail.com**
+- 📫 How to reach me **kanishk.malik.dev@gmail.com**
 
 - ⚡ Fun fact **I am a minimalist**
 
