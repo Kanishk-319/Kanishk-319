@@ -7,15 +7,15 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Twitter Clone**
+- 🔭 I’m currently working on **InsightInk**
 
-- 🌱 I’m currently learning **TypeScript**
+- 🌱 I’m currently learning **Next Auth**
 
-- 🤝 I’m looking for help with **React Websites**
+- 🤝 I’m looking for help with **Typescript**
 
 - 👨‍💻 All of my projects are available at [https://portfolio-2-0-vg9p.vercel.app/](https://portfolio-2-0-vg9p.vercel.app/)
 
-- 💬 Ask me about **Html, CSS, JavaScript, ReactJs, Bootstrap, Tailwind CSS**
+- 💬 Ask me about **React.js/Next.js, Next Auth, MonogoDB/Firebase**
 
 - 📫 How to reach me **kanishk.malik.dev@gmail.com**
 
